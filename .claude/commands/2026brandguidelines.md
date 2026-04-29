@@ -1,6 +1,6 @@
 # Casa 2026 Brand & Design System
 
-When designing or building UI for this project, apply the following design system exactly. This captures all fonts, colors, spacing, component patterns, and visual language used in the Casa Compensation Dashboard.
+When designing or building UI for any project, apply the following design system exactly unless told otherwise. This captures all fonts, colors, spacing, component patterns, and visual language used to build Casa applications.
 
 ---
 
